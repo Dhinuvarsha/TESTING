@@ -1,8 +1,9 @@
 
 import React from 'react'
+import "./Service.css";
 export default function Service() {
   return (
-    <div className="Service">
+    <div className="service">
         <div className='service-item'>1</div>
         <div className='service-item'>2</div>
         <div className='service-item'>3</div>
